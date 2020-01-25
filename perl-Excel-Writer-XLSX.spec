@@ -4,7 +4,6 @@
 
 %define		pdir	Excel
 %define		pnam	Writer-XLSX
-%include	/usr/lib/rpm/macros.perl
 Summary:	Excel::Writer::XLSX - Create a new file in the Excel 2007+ XLSX format
 Name:		perl-Excel-Writer-XLSX
 Version:	0.98
