@@ -6,13 +6,13 @@
 %define		pnam	Writer-XLSX
 Summary:	Excel::Writer::XLSX - Create a new file in the Excel 2007+ XLSX format
 Name:		perl-Excel-Writer-XLSX
-Version:	0.98
+Version:	1.03
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	10c9bd6bb77fc08da41c385d994ce20d
+# Source0-md5:	df9f6fd888cc360622f7deb84349ef13
 URL:		http://search.cpan.org/dist/Excel-Writer-XLSX/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	perl-modules >= 5.6.1
